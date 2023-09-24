@@ -1,0 +1,25 @@
+[
+    {
+        "function": "minecraft:set_lore",
+        "replace": false,
+        "entity": "this",
+        "lore": [
+            [
+                "",
+                {
+                    "text": "* ",
+                    "color": "light_purple"
+                },
+                {
+                    "nbt": "text",
+                    "interpret": true,
+                    "storage": "translatable:text"
+                }
+            ]
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{translatable:1}"
+    }
+]

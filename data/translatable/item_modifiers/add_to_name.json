@@ -1,0 +1,11 @@
+[
+    {
+        "function": "minecraft:set_name",
+        "entity": "this",
+        "name": {
+            "nbt": "text",
+            "interpret": true,
+            "storage": "translatable:text"
+        }
+    }
+]
