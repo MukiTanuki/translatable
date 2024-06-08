@@ -1,0 +1,17 @@
+[
+	{
+        "function": "minecraft:set_lore",
+        "mode": "append",
+        "entity": "this",
+        "lore": [
+            [
+                "",
+                {
+                    "nbt": "text",
+                    "interpret": true,
+                    "storage": "translatable:text"
+                }
+            ]
+        ]
+    }
+]
