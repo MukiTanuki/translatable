@@ -3,10 +3,10 @@
 		"pack_format": 18,
 		"supported_formats": {
 			"min_inclusive": 18,
-			"max_inclusive": 88
+			"max_inclusive": 121.0
 		},
 		"min_format": 18,
-		"max_format": 88,
+		"max_format": 121.0,
 		"description": [{"text":"Translatable text datapack for VintageBeef and Hermitcraft","color":"gold"},{"text":"\nDatapack by MukiTanuki","color":"yellow"}]
 	},
 	"overlays": {
@@ -44,6 +44,15 @@
 				"max_format": 9999999,
 				"formats": {
 					"min_inclusive": 71,
+					"max_inclusive": 9999999
+				}
+			},
+			{
+				"directory": "26_3",
+				"min_format": 121.0,
+				"max_format": 9999999,
+				"formats": {
+					"min_inclusive": 121.0,
 					"max_inclusive": 9999999
 				}
 			}
